@@ -1,0 +1,31 @@
+{
+  "org": "rust-lang",
+  "name": "rustc-demangle",
+  "description": "Rust symbol demangling",
+  "homepage": null,
+  "bots": [],
+  "teams": [
+    {
+      "name": "compiler",
+      "permission": "write"
+    },
+    {
+      "name": "compiler-contributors",
+      "permission": "write"
+    }
+  ],
+  "members": [],
+  "branch_protections": [
+    {
+      "pattern": "main",
+      "ci_checks": [
+        "test"
+      ],
+      "dismiss_stale_review": false,
+      "required_approvals": 1,
+      "allowed_merge_teams": []
+    }
+  ],
+  "archived": false,
+  "auto_merge_enabled": true
+}

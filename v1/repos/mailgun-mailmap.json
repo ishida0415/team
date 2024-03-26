@@ -1,0 +1,12 @@
+{
+  "org": "rust-lang",
+  "name": "mailgun-mailmap",
+  "description": "Mail configuration for rust-lang domains",
+  "homepage": null,
+  "bots": [],
+  "teams": [],
+  "members": [],
+  "branch_protections": [],
+  "archived": true,
+  "auto_merge_enabled": true
+}

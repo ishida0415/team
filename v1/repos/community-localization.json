@@ -1,0 +1,17 @@
+{
+  "org": "rust-lang",
+  "name": "community-localization",
+  "description": "",
+  "homepage": null,
+  "bots": [],
+  "teams": [
+    {
+      "name": "community-localization",
+      "permission": "write"
+    }
+  ],
+  "members": [],
+  "branch_protections": [],
+  "archived": false,
+  "auto_merge_enabled": true
+}

@@ -1,0 +1,35 @@
+{
+  "org": "rust-lang",
+  "name": "team",
+  "description": "Rust teams structure",
+  "homepage": null,
+  "bots": [],
+  "teams": [
+    {
+      "name": "team-repo-admins",
+      "permission": "write"
+    },
+    {
+      "name": "mods",
+      "permission": "maintain"
+    },
+    {
+      "name": "infra",
+      "permission": "triage"
+    }
+  ],
+  "members": [],
+  "branch_protections": [
+    {
+      "pattern": "master",
+      "ci_checks": [
+        "CI"
+      ],
+      "dismiss_stale_review": true,
+      "required_approvals": 1,
+      "allowed_merge_teams": []
+    }
+  ],
+  "archived": false,
+  "auto_merge_enabled": true
+}

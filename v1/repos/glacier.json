@@ -1,0 +1,17 @@
+{
+  "org": "rust-lang",
+  "name": "glacier",
+  "description": "A big 'ol pile of ICE.",
+  "homepage": null,
+  "bots": [],
+  "teams": [
+    {
+      "name": "wg-triage",
+      "permission": "write"
+    }
+  ],
+  "members": [],
+  "branch_protections": [],
+  "archived": false,
+  "auto_merge_enabled": true
+}

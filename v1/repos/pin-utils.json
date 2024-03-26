@@ -1,0 +1,17 @@
+{
+  "org": "rust-lang",
+  "name": "pin-utils",
+  "description": "Utilities for pinning",
+  "homepage": null,
+  "bots": [],
+  "teams": [
+    {
+      "name": "wg-async",
+      "permission": "write"
+    }
+  ],
+  "members": [],
+  "branch_protections": [],
+  "archived": false,
+  "auto_merge_enabled": true
+}
